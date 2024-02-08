@@ -86,6 +86,11 @@ SCRIPT_CONSTRAINTS = {
         "setuptools": "",
         "wheel": "",
     },
+    "3.12": {
+        "pip": "",
+        "setuptools": "",
+        "wheel": "",
+    },
 }
 
 # Scripts here use the "moved" template, with the key being the file path and
